@@ -28,4 +28,4 @@ if st.button("Generate Password"):
 
 st.write("--------------------------------")
 
-st.write("Build with by [Maleeha](https://github.com/Maleeha)")
+st.write("Build with by [Sheheryar](https://github.com/Sheheryar)")
